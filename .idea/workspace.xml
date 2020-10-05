@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b1990ed-5eea-46c3-a532-a8af56f68a38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/YAHAdmin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/docs/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/docs/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/docs/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/docs/prettify.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/docs/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/docs/styles.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/samples/bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/samples/doughnut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/samples/line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/samples/pie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/samples/polarArea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/samples/radar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/samples/sixup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/site/assets/6charts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/site/assets/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/site/assets/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/site/assets/excanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/site/assets/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/site/assets/simple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-master/site/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/CHANGES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/build-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/ckeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/contents.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/en-au.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/en-ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/en-gb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/eo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/fo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/fr-ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/gu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/ku.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/mn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/pt-br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/sr-latn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/ug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/lang/zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/about/dialogs/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/clipboard/dialogs/paste.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/dialog/dialogDefinition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/fakeobjects/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/image/dialogs/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/image/images/noimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/link/dialogs/anchor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/link/dialogs/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/link/images/anchor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/magicline/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/pastefromword/filter/default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/scayt/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/scayt/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/scayt/dialogs/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/table/dialogs/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/wsc/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/wsc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/wsc/dialogs/wsc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/plugins/wsc/dialogs/wsc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/api.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/appendto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/assets/inlineall/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/assets/outputxhtml/outputxhtml.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/assets/sample.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/assets/sample.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/assets/uilanguages/languages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/divreplace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/inlineall.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/inlinebycode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/dialog/assets/my_dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/dialog/dialog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/enterkey/enterkey.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.fla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/swfobject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/htmlwriter/outputforflash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/htmlwriter/outputhtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/magicline/magicline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/toolbar/toolbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/plugins/wysiwygarea/fullpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/readonly.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/replacebyclass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/replacebycode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/sample.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/sample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/tabindex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/uicolor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/uilanguages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/samples/xhtmlstyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/dialog_ie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/dialog_ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/dialog_ie8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/dialog_iequirks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/dialog_opera.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/editor_gecko.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/editor_ie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/editor_ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/editor_ie8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/editor_iequirks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/images/mini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/skins/moono/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ckeditor/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/GPL-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/MIT-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/agenda-views.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/basic-views.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-icons_2694e8_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-icons_3d80b3_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-icons_72a7cf_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/cupertino/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/external-dragging.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/gcal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/json-events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/json.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/selectable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/demos/theme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/fullcalendar/bootstrap-fullcalendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/fullcalendar/fullcalendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/fullcalendar/fullcalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/fullcalendar/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/fullcalendar/fullcalendar.print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/fullcalendar/gcal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/jquery/jquery-1.8.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fullcalendar/jquery/jquery-ui-1.8.23.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-easy-pie-chart/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-easy-pie-chart/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-easy-pie-chart/examples/excanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-easy-pie-chart/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-easy-pie-chart/examples/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-easy-pie-chart/img/easy-pie-chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-knob/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-knob/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-knob/js/jquery.knob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/animated-overlay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_flat_10_000000_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_glass_100_fdf5ce_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-icons_228ef1_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-icons_ef8c08_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-icons_ffd27a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/jquery-ui-1.10.1.custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/jquery-ui-1.10.1.custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/jquery-ui-1.10.1.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/jquery-ui-1.10.2.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery-ui/jquery-ui-1.9.2.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/area-as-line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/area.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/bar-colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/bar-no-axes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/days.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/decimal-custom-hover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/diagonal-xlabels-bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/diagonal-xlabels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/donut-colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/donut-formatter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/donut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/dst.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/goals.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/lib/example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/lib/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/lib/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/lib/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/months-no-smooth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/negative.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/no-grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/non-continuous.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/non-date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/quarters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/stacked_bars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/timestamps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/updating.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/weeks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/examples/years.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/grunt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/less/morris.core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/lib/morris.area.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/lib/morris.bar.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/lib/morris.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/lib/morris.donut.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/lib/morris.grid.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/lib/morris.hover.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/lib/morris.line.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/morris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/morris.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/raphael-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/area/area_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/bar/bar_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/bar/colours.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/commas_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/donut/donut_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/grid/auto_grid_lines_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/grid/set_data_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/grid/y_label_format_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/hover_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/label_series_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/line/line_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/pad_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/lib/parse_time_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/specs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/support/placeholder.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/vendor/chai-1.3.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/vendor/chai-jquery-1.1.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/vendor/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/vendor/mocha-1.6.0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/vendor/mocha-1.6.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/vendor/raphael-2.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/vendor/sinon-1.5.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/morris.js-0.4.3/spec/vendor/sinon-chai-2.1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart-chartjs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactform/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactform/contactform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/elegant-icons-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fullcalendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jquery-jvectormap-1.2.2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jquery-ui-1.10.4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/widgets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/xcharts.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/ElegantIcons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/ElegantIcons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/ElegantIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/ElegantIcons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form_component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form_validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Russia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Spain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/arrow-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avatar-mini.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avatar-mini2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avatar-mini3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avatar-mini4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avatar1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chart-texture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chat-avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chat-avatar2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/customSelect-arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/line-icon-c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/line-icon-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/line-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/search-line-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/social.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/weather-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/weather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/left-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mail-avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/profile-avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/profile-widget-avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/right-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sample-img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sample-img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sample-img-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/search-icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/user22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-wysiwyg-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-wysiwyg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/calendar-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/chartjs-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/charts-flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/charts-other.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/charts-xcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dynamic-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/easy-pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/excanvas.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/form-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/form-validation-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/fullcalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ga.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gdp-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gritter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-jvectormap-1.2.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-jvectormap-world-mill-en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-ui-1.10.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-ui-1.9.2.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.autosize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.customSelect.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.hotkeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.localscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.placeholder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.rateit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.scrollTo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.slimscroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.smartWizard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.sparkline-11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.sparkline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.stepy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lte-ie7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/morris-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/morris.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/sliders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/sparkline-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/sparklines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/xcharts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\USER\Downloads\ff\NiceAdmin\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iQkILEs0v3I1f27TzXJiMBqZ8y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Downloads\ff\NiceAdmin\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="YAHAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="YAHAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="YAHAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="YAHAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="YAHAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="YAHAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="YAHAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="YAHAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b1990ed-5eea-46c3-a532-a8af56f68a38" name="Default Changelist" comment="" />
+      <created>1601847121604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601847121604</updated>
+      <workItem from="1601847123277" duration="9586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
